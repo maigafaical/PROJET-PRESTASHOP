@@ -1,0 +1,14 @@
+MES IDENTIFIANTS
+
+-Compte admin:
+.username: faicalmaiga
+.password: Faical54@
+
+
+-compte editeur1:
+.email: djafar@gmail.com
+.password: editeur1@
+
+-compte editeur2:
+.email: ousseini@gmail.com
+.password: editeur2@
